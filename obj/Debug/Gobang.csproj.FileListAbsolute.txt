@@ -1,0 +1,13 @@
+E:\Visual Studio Projects\Gobang\bin\Debug\Gobang.exe.config
+E:\Visual Studio Projects\Gobang\bin\Debug\Gobang.exe
+E:\Visual Studio Projects\Gobang\bin\Debug\Gobang.pdb
+E:\Visual Studio Projects\Gobang\obj\Debug\Gobang.csprojAssemblyReference.cache
+E:\Visual Studio Projects\Gobang\obj\Debug\Gobang.MainWnd.resources
+E:\Visual Studio Projects\Gobang\obj\Debug\Gobang.about.resources
+E:\Visual Studio Projects\Gobang\obj\Debug\Gobang.Properties.Resources.resources
+E:\Visual Studio Projects\Gobang\obj\Debug\Gobang.settings.resources
+E:\Visual Studio Projects\Gobang\obj\Debug\Gobang.csproj.GenerateResource.cache
+E:\Visual Studio Projects\Gobang\obj\Debug\Gobang.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\Gobang\obj\Debug\Gobang.exe
+E:\Visual Studio Projects\Gobang\obj\Debug\Gobang.pdb
+E:\Visual Studio Projects\Gobang\obj\Debug\Gobang.help.resources
